@@ -6,4 +6,4 @@ This is the first file in this repo.
 
 My name is Alex Oros.
 
-I am watching a replay of UFC 280.
+I am watching a replay of UFC 280 on a Tuesday night.
