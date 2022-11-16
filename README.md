@@ -2,8 +2,8 @@
 
 This is the first file in this repo.
 
-## Ipsum Below
+## Website Contents
 
-My name is Alex Oros.
+Here are the files in the website:
 
-I am watching a replay of UFC 280 on a Tuesday night.
+1. index.html
